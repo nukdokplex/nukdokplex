@@ -1,4 +1,4 @@
-![Cover](https://raw.githubusercontent.com/nukdokplex/nukdokplex/master/cover.png)
+[![Cover](https://raw.githubusercontent.com/nukdokplex/nukdokplex/master/cover.png)](https://github.com/nukdokplex)
 
 <h2 align="center">Some statistics of my profile</h2>
 <br>
