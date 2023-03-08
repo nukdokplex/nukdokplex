@@ -1,5 +1,3 @@
-# NukDokPlex is just a coder
-
 ![Cover](https://raw.githubusercontent.com/nukdokplex/nukdokplex/master/cover.png)
 
 <h2 align="center">Some statistics of my profile</h2>
