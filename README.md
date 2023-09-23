@@ -10,4 +10,7 @@
         <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nukdokplex&theme=github_dark&layout=compact&exclude_repo=MyNMCWeb&custom_title=Top%20languages&langs_count=6" height="152px">
     </a>
 </p>
-
+<h2 align="center">Currently playing on Spotify</h2>
+<p align="center">
+    <a href="https://open.spotify.com/user/k8d2u3l1klp64mdypz4b983mn?si=58758bf6eac440bc"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=k8d2u3l1klp64mdypz4b983mn&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=k8d2u3l1klp64mdypz4b983mn&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)"></a>
+</p>
