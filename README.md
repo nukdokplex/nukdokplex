@@ -12,5 +12,5 @@
 </p>
 <h2 align="center">Currently playing on Spotify</h2>
 <p align="center">
-    <a href="https://spotify-github-profile.vercel.app/api/view?uid=k8d2u3l1klp64mdypz4b983mn&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=k8d2u3l1klp64mdypz4b983mn&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"></a>
+    <a href="https://spotify-github-profile.vercel.app/api/view?uid=k8d2u3l1klp64mdypz4b983mn&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=k8d2u3l1klp64mdypz4b983mn&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"></a>
 </p>
